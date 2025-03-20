@@ -85,7 +85,6 @@
 - 📂 **Software Exploitation**
 
   - 📄 [Hacking The Art Of Exploitation.pdf](Software%20Exploitation/Hacking%20The%20Art%20Of%20Exploitation.pdf)
-  - 📄 [Nghệ thuật khai thác lỗ hổng phần mềm \- Nguyễn Thành Nam.pdf](Software%20Exploitation/Ngh%E1%BB%87%20thu%E1%BA%ADt%20khai%20th%C3%A1c%20l%E1%BB%97%20h%E1%BB%95ng%20ph%E1%BA%A7n%20m%E1%BB%81m%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh%20Nam.pdf)
   - 📄 [Penetration testing a Hands\-on introduction to Hacking.pdf](Software%20Exploitation/Penetration%20testing%20a%20Hands-on%20introduction%20to%20Hacking.pdf)
 
 - 📂 **Web Application Hacking**
