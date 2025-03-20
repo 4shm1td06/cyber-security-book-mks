@@ -2,7 +2,6 @@
 
 - A collection of cyber security books
 - [Cyber Security Roadmap](https://roadmap.sh/cyber-security)
-- If you want to contribute to this repo, feel free to checkout [contribution guidance](./Contribution.md)
 
 # Table of Contents
 
